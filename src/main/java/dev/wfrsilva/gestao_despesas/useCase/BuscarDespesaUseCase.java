@@ -11,7 +11,7 @@ import dev.wfrsilva.gestao_despesas.repository.DespesaRepository;
 
 @Service
 public class BuscarDespesaUseCase {
-
+// apos criar essa classe, localhost roda sem erro
     @Autowired
     private DespesaRepository despesaRepository;
 
